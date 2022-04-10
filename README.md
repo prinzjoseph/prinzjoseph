@@ -6,10 +6,9 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="center">
-<img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=BBCBF7&lines=Hey+there)](https://git.io/typing-svg)">
+<img src="https://readme-typing-svg.herokuapp.com?color=BBCBF7&lines=Hey+there">
 </p>
-<br>
-<hr>
+
 
 <img src="https://readme-typing-svg.herokuapp.com?color=red&size=12&width=180&height=18&lines=About+me...;">
 
