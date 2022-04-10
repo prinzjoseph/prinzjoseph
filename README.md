@@ -8,6 +8,10 @@
 <p align="center">
 <img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=BBCBF7&lines=Hey+there)](https://git.io/typing-svg)">
 </p>
+<br>
+<hr>
+
+<img src="https://readme-typing-svg.herokuapp.com?color=red&size=12&width=180&height=18&lines=About+me...;">
 
 ```
 ---
