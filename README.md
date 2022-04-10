@@ -55,7 +55,7 @@
 
 <!-- ----------- CONNECT WITH ME SECTION ------------ -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=419A15EB&size=40&center=true&vCenter=true&width=550&height=40&lines=Connect+with+me">
+<img src="https://readme-typing-svg.herokuapp.com?color=A0F7A3FF&size=40&center=true&vCenter=true&width=550&height=40&lines=Connect+with+me">
 </p>
 
 <p align="center">
