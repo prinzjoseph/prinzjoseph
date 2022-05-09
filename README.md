@@ -26,8 +26,7 @@
         - Ubuntu 16.04, 18.04, 20.04
         - CentOS 6.x, 7.x, 8.x
     - Scripting Languages:
-        - Bash
-        - Python    
+        - Bash   
     - Infrastucture As a Code:
         - Terraform
         - Ansible
