@@ -18,7 +18,7 @@
   hosts: GitHub
   become: true
 
-  tasks:
+  skills:
     - Cloud platform:
         - AWS
     - Operating Systems:
