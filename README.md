@@ -64,7 +64,6 @@
 <a href="mailto:princejoseph1k94@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/princejoseph94"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 <a href="https://www.instagram.com/opensourcenthusiast"><img src="https://img.shields.io/badge/Instagram-cd486b?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://wa.me/%2B917012962716?text=This%20message%20from%20GitHub."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   </a></p>
 </div>
 
