@@ -22,26 +22,30 @@
     - Cloud platform:
         - AWS
     - Operating Systems:
-        - RedHat Linux Release 6.x, 7.x, 8.x
-        - Ubuntu 16.04, 18.04, 20.04
-        - CentOS 6.x, 7.x, 8.x
+        - RedHat Linux Release 8.x, 9.x
+        - Ubuntu 24.04
+        - CentOS 8.x, 9.x
     - Scripting Languages:
-        - Bash   
+        - Bash
+        - Python
+        - TypeScript  
     - Infrastucture As a Code:
         - Terraform
-        - Ansible
-        - AWS CloudFormation
+        - AWS CDK (TyprScript)
     - Configuration Management:
         - Ansible
     - Source Code Management/Version Control:
-        - Git (GitHub, BitBucket, GitLab)
+        - Git (GitHub)
     - Continuous Integeration/Continuous Deployment:
         - Jenkins
+        - GitHub Actions
     - Containerization:
         - Docker
+    - Container Orchestration:
+        - Kubernetes
     - Monitoring Tools:
-        - AWS CloudWatch
-        - Zabbix
+        - AWS Cloudwatch
+        - Dynatrace
 ```     
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
