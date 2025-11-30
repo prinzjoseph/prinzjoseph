@@ -64,10 +64,9 @@
 </p>
 
 <p align="center">
-<a href="https://www.youtube.com/channel/UC5VBXR9izKi4NUjOI4HgHCg"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a href="mailto:princejoseph1k94@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/princejoseph94"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-<a href="https://www.instagram.com/opensourcenthusiast"><img src="https://img.shields.io/badge/Instagram-cd486b?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/princejoseph94"><img src="https://img.shields.io/badge/Instagram-cd486b?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   </a></p>
 </div>
 
