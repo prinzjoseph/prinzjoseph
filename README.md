@@ -1,75 +1,60 @@
-## Hi Geeks, 👋
-
-##### Welcome!
-
-![](https://visitor-badge.laobi.icu/badge?page_id=prinzjoseph)
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<h1 align="center">prince@eks-cluster:~$</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=BBCBF7&lines=Hey+there">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=6366F1&size=22&center=true&vCenter=true&width=600&lines=Platform+%26+DevOps+Engineer;7.5+yrs+Linux+Ops+%C2%B7+3.5+yrs+Kubernetes;kubectl+get+pods+--all-namespaces;Building+the+platform+layer%2C+one+script+at+a+time">
 </p>
 
+<p align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=prinzjoseph" alt="visitors"/>
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=red&size=12&width=180&height=18&lines=About+me...;">
+```bash
+$ whoami
+prince-joseph — Systems Specialist (DevOps) @ Allianz Technology
 
+$ cat about.txt
+Operating enterprise Linux and Kubernetes infrastructure for 7.5 years,
+3.5 of those hands-on with production EKS across multiple global entities.
+Own CI/CD pipelines, secrets management, and observability for 30+ services.
+Currently building the platform-engineering layer on top of that foundation —
+IaC, GitOps, and self-service tooling.
+
+$ kubectl get skills --all-namespaces
+NAMESPACE            NAME                    STATUS
+cloud                aws                     Running
+containers           kubernetes-eks-helm     Running
+containers           docker                  Running
+iac                  terraform               Running
+iac                  aws-cdk-typescript      Running
+cicd                 jenkins-groovy          Running
+cicd                 github-actions-argocd   Running
+observability        dynatrace-cloudwatch    Running
+security             wiz                     Running
+scripting            bash-python-typescript  Running
+os                   rhel-ubuntu-centos      Running
+
+$ cat certifications.log
+[x] AWS Certified Solutions Architect – Associate  (2024, verified via Credly)
+[~] Certified Kubernetes Administrator (CKA)        (in progress)
+
+$ echo "currently building"
+→ k8s-crashloop-checker — a Bash + jq tool that scans namespaces for
+  crash-looping pods, catching them by combining a live signal
+  (waiting.reason) with a cumulative one (restartCount) — because
+  neither alone is reliable on its own.
 ```
----
-- Name: Prince Joseph
-  hosts: GitHub
-  become: true
-
-  skills:
-    - Cloud platform:
-        - AWS
-    - Operating Systems:
-        - RedHat Linux Release 8.x, 9.x
-        - Ubuntu 24.04
-        - CentOS 8.x, 9.x
-    - Scripting Languages:
-        - Bash
-        - Python
-        - TypeScript  
-    - Infrastucture As a Code:
-        - Terraform
-        - AWS CDK (TyprScript)
-    - Configuration Management:
-        - Ansible
-    - Source Code Management/Version Control:
-        - Git (GitHub)
-    - Continuous Integeration/Continuous Deployment:
-        - Jenkins
-        - GitHub Actions
-    - Containerization:
-        - Docker
-    - Container Orchestration:
-        - Kubernetes
-    - Monitoring Tools:
-        - AWS Cloudwatch
-        - Dynatrace
-```     
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### ⚙️ GitHub Analytics
 
 [![](https://github-readme-stats.vercel.app/api?username=prinzjoseph&show_icons=true&theme=vue&hide_border=true&width=100%&locale=en)](https://github.com/prinzjoseph)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=prinzjoseph&theme=vue&hide_border=true&width=100%)](https://github.com/prinzjoseph)
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+### 🔗 Find me elsewhere
 
-### ⚙️ Connect with Me
-
-<!-- ----------- CONNECT WITH ME SECTION ------------ -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=A0F7A3FF&size=40&center=true&vCenter=true&width=550&height=40&lines=Connect+with+me">
+<a href="https://prinzjoseph.github.io/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:princejoseph1k94@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/princejoseph94"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-<p align="center">
-<a href="mailto:princejoseph1k94@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/princejoseph94"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-<a href="https://www.instagram.com/princejoseph94"><img src="https://img.shields.io/badge/Instagram-cd486b?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  </a></p>
-</div>
-
-<h1 align="center">Hope to see you again! <br><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px"></h1>
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<p align="center"><sub>$ echo "thanks for stopping by" ✓</sub></p>
