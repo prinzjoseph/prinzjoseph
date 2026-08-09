@@ -1,27 +1,12 @@
-<h1 align="center">prince@k8s-cluster:~$</h1>
+<h1>prince@k8s-cluster:~$</h1>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=6366F1&size=20&center=true&vCenter=true&width=700&height=30&lines=Platform+%26+DevOps+Engineer" />
-</p>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=06B6D4&size=18&center=true&vCenter=true&width=700&height=30&lines=7.5+yrs+Linux+Ops+%C2%B7+3.5+yrs+Kubernetes" />
-</p>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=22C55E&size=18&center=true&vCenter=true&width=700&height=30&lines=%24+kubectl+get+pods+--all-namespaces" />
-</p>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=F59E0B&size=18&center=true&vCenter=true&width=700&height=30&lines=Building+the+platform+layer%2C+one+script+at+a+time" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=6366F1&size=18&center=false&vCenter=true&width=700&height=30&lines=Platform+%26+DevOps+Engineer;7.5+yrs+Linux+Ops+%C2%B7+3.5+yrs+Kubernetes;%24+kubectl+get+pods+--all-namespaces;Building+the+platform+layer%2C+one+script+at+a+time" />
 
-<p align="center">
+<p>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=prinzjoseph&color=6366F1" alt="visitors"/>
 <img src="https://img.shields.io/badge/status-online-22C55E?style=flat-square"/>
 <img src="https://img.shields.io/badge/uptime-99.9%25-6366F1?style=flat-square"/>
 </p>
-
-<pre align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=94A3B8&size=14&center=true&vCenter=true&width=500&height=20&lines=%E2%96%88%E2%96%88%E2%96%88+establishing+secure+connection...+%E2%9C%93" />
-</pre>
 
 ---
 
@@ -72,11 +57,6 @@ prince@eks-cluster:~$ echo "All systems nominal ✓"
 [![](https://github-readme-streak-stats.herokuapp.com/?user=prinzjoseph&theme=tokyonight&hide_border=true&width=49%)](https://github.com/prinzjoseph)
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=prinzjoseph&theme=tokyo-night&hide_border=true&area=true)
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prinzjoseph&theme=tokyonight&hide_border=true&card_width=0" width="0" height="0" alt="" />
-<img src="https://github-profile-trophy.vercel.app/?username=prinzjoseph&theme=algolia&no-frame=true&column=4&margin-w=8&margin-h=8" />
-</p>
 
 ### 🔗 Find me elsewhere
 
