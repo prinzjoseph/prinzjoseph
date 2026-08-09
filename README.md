@@ -25,43 +25,47 @@
 
 ---
 
-```ansi
-[0;90mprince@eks-cluster[0m:[0;34m~[0m$ [0;32mwhoami[0m
-[0;37mprince-joseph — Systems Specialist (DevOps) @ Allianz Technology[0m
+```bash
+prince@eks-cluster:~$ whoami
+# prince-joseph — Systems Specialist (DevOps) @ Allianz Technology
 
-[0;90mprince@eks-cluster[0m:[0;34m~[0m$ [0;32mcat[0m about.txt
-[0;37mOperating enterprise Linux and Kubernetes infrastructure for 7.5 years,
+prince@eks-cluster:~$ cat about.txt
+: '
+Operating enterprise Linux and Kubernetes infrastructure for 7.5 years,
 3.5 of those hands-on with production EKS across multiple global entities.
 Own CI/CD pipelines, secrets management, and observability for 30+ services.
 Currently building the platform-engineering layer on top of that foundation —
-IaC, GitOps, and self-service tooling.[0m
+IaC, GitOps, and self-service tooling.
+'
 
-[0;90mprince@eks-cluster[0m:[0;34m~[0m$ [0;32mkubectl[0m get skills --all-namespaces
-[0;36mNAMESPACE[0m            [0;36mNAME[0m                    [0;36mSTATUS[0m
-cloud                aws                     [0;32mRunning[0m
-containers           kubernetes-eks-helm     [0;32mRunning[0m
-containers           docker                  [0;32mRunning[0m
-iac                  terraform               [0;32mRunning[0m
-iac                  aws-cdk-typescript      [0;32mRunning[0m
-cicd                 jenkins-groovy          [0;32mRunning[0m
-cicd                 github-actions-argocd   [0;32mRunning[0m
-observability        dynatrace-cloudwatch    [0;32mRunning[0m
-security             wiz                     [0;32mRunning[0m
-scripting            bash-python-typescript  [0;32mRunning[0m
-os                   rhel-ubuntu-centos      [0;32mRunning[0m
+prince@eks-cluster:~$ kubectl get skills --all-namespaces
+# NAMESPACE            NAME                    STATUS
+# cloud                aws                     Running
+# containers           kubernetes-eks-helm     Running
+# containers           docker                  Running
+# iac                  terraform               Running
+# iac                  aws-cdk-typescript      Running
+# cicd                 jenkins-groovy          Running
+# cicd                 github-actions-argocd   Running
+# observability        dynatrace-cloudwatch    Running
+# security             wiz                     Running
+# scripting            bash-python-typescript  Running
+# os                   rhel-ubuntu-centos      Running
 
-[0;90mprince@eks-cluster[0m:[0;34m~[0m$ [0;32mcat[0m certifications.log
-[0;32m[x][0m AWS Certified Solutions Architect – Associate  [0;90m(2024, verified via Credly)[0m
-[0;33m[~][0m Certified Kubernetes Administrator (CKA)        [0;90m(in progress)[0m
+prince@eks-cluster:~$ cat certifications.log
+# [x] AWS Certified Solutions Architect – Associate  (2024, verified via Credly)
+# [~] Certified Kubernetes Administrator (CKA)        (in progress)
 
-[0;90mprince@eks-cluster[0m:[0;34m~[0m$ [0;32mecho[0m "currently building"
-[0;35m→[0m [0;37mk8s-crashloop-checker[0m [0;90m—[0m a Bash + jq tool that scans namespaces for
-  crash-looping pods, catching them by combining a live signal
-  ([0;33mwaiting.reason[0m) with a cumulative one ([0;33mrestartCount[0m) — because
-  neither alone is reliable on its own.
+prince@eks-cluster:~$ echo "currently building"
+: '
+k8s-crashloop-checker — a Bash + jq tool that scans namespaces for
+crash-looping pods, catching them by combining a live signal
+(waiting.reason) with a cumulative one (restartCount) — because
+neither alone is reliable on its own.
+'
 
-[0;90mprince@eks-cluster[0m:[0;34m~[0m$ [0;32mecho[0m "All systems nominal ✓"
-[0;32mAll systems nominal ✓[0m
+prince@eks-cluster:~$ echo "All systems nominal ✓"
+# All systems nominal ✓
 ```
 
 ---
