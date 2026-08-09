@@ -1,4 +1,4 @@
-<h1 align="center">prince@eks-cluster:~$</h1>
+<h1 align="center">prince@k8s-cluster:~$</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=6366F1&size=20&center=true&vCenter=true&width=700&height=30&lines=Platform+%26+DevOps+Engineer" />
@@ -30,13 +30,11 @@ prince@eks-cluster:~$ whoami
 # prince-joseph — Systems Specialist (DevOps) @ Allianz Technology
 
 prince@eks-cluster:~$ cat about.txt
-: '
-Operating enterprise Linux and Kubernetes infrastructure for 7.5 years,
-3.5 of those hands-on with production EKS across multiple global entities.
-Own CI/CD pipelines, secrets management, and observability for 30+ services.
-Currently building the platform-engineering layer on top of that foundation —
-IaC, GitOps, and self-service tooling.
-'
+# Operating enterprise Linux and Kubernetes infrastructure for 7.5 years,
+# 3.5 of those hands-on with production EKS across multiple global entities.
+# Own CI/CD pipelines, secrets management, and observability for 30+ services.
+# Currently building the platform-engineering layer on top of that foundation —
+# IaC, GitOps, and self-service tooling.
 
 prince@eks-cluster:~$ kubectl get skills --all-namespaces
 # NAMESPACE            NAME                    STATUS
@@ -57,12 +55,10 @@ prince@eks-cluster:~$ cat certifications.log
 # [~] Certified Kubernetes Administrator (CKA)        (in progress)
 
 prince@eks-cluster:~$ echo "currently building"
-: '
-k8s-crashloop-checker — a Bash + jq tool that scans namespaces for
-crash-looping pods, catching them by combining a live signal
-(waiting.reason) with a cumulative one (restartCount) — because
-neither alone is reliable on its own.
-'
+# k8s-crashloop-checker — a Bash + jq tool that scans namespaces for
+# crash-looping pods, catching them by combining a live signal
+# (waiting.reason) with a cumulative one (restartCount) — because
+# neither alone is reliable on its own.
 
 prince@eks-cluster:~$ echo "All systems nominal ✓"
 # All systems nominal ✓
